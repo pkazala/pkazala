@@ -4,7 +4,7 @@ I am a ***Web Developer*** and ***Designer*** with a real passion for creating i
 
 ### My Technologies:
 - 🎨Languages: Python, Javascript (TS), Java
-- 📱Front-End: Vue (Vuex), Svelte, tailwind
+- 📱Front-End: Vue , Svelte, tailwind
 - ⚙️Back-End: Flask, MongoDB, PostgreSQL
 - 🕹Other: Git, Jira
 
