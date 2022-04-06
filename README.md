@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkazala)](https://github.com/pkazala/github-readme-stats)
+
 <!--
 **pkazala/pkazala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
