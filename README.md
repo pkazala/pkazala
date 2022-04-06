@@ -8,7 +8,7 @@ I am a ***Web Developer*** and ***Designer*** with a real passion for creating i
 - ⚙️Back-End: Flask, MongoDB, PostgreSQL
 - 🕹Other: Git, Jira
 
-### [My Portfolio](https://piotrkazala.com/)🧑🏽‍💻
+### [My Portfolio](https://piotrkazala.com/)⛄️
 <!--
 
 [![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkazala)](https://github.com/pkazala/github-readme-stats)
