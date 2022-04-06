@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi👋
 
-[![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkazala)](https://github.com/pkazala/github-readme-stats)
+I am a Web Developer and Designer with a real passion for creating interfaces and applications that are highly intuitive and engaging. I spend my time diving into new technologies, building out projects and researching what makes the most natural UX. Mainly focused on Front-End and the visual aspects of web applications but always willing to dip into the Back-End and try my luck working with API’s and Databases.
 
+### My Technologies:
+- Languages: Python, Javascript (TS), Java
+- Front-End: Vue (Vuex), Svelte, tailwind
+- Back-End: Flask, MongoDB, PostgreSQL
+- Other: Git, Jira
 <!--
 **pkazala/pkazala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkazala)](https://github.com/pkazala/github-readme-stats)
+
 -->
