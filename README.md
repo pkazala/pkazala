@@ -7,7 +7,7 @@ I am a ***Web Developer*** and ***Designer*** with a real passion for creating i
 - 📱Front-End: Vue, Svelte, Tailwind
 - ⚙️Back-End: Flask, MongoDB, PostgreSQL
 - 🕹Other: Git, Jira
-- 🚧Currently learning: Next.js, React
+- 🚧Currently learning: Next.js, React, PHP
 
 ### [My Portfolio](https://piotrkazala.com/)⛄️
 <!--
